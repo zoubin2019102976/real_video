@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zoubin/tmp/real_video05/get_samples/getSamples.cpp
+iostream
+-
+cstring
+-
+string
+-
+sys/types.h
+-
+vector
+-
+opencv4/opencv2/videoio.hpp
+-
+opencv4/opencv2/core.hpp
+-
+opencv4/opencv2/highgui.hpp
+-
+unistd.h
+-
+arpa/inet.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libExPackage.a  CMakeFiles/ExPackage.dir/fun1.cpp.o CMakeFiles/ExPackage.dir/fun2.cpp.o
+/usr/bin/ranlib libExPackage.a

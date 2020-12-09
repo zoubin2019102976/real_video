@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zoubin/tmp/real_video05/get_samples/exPackage/fun1.cpp
+iostream
+-
+cstdio
+-
+
+/home/zoubin/tmp/real_video05/get_samples/exPackage/fun2.cpp
+iostream
+-
+cstdio
+-
+

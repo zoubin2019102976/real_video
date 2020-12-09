@@ -1,0 +1,6 @@
+/home/zoubin/tmp/real_video05/build_client/CMakeFiles/rebuild_cache.dir
+/home/zoubin/tmp/real_video05/build_client/CMakeFiles/edit_cache.dir
+/home/zoubin/tmp/real_video05/build_client/CMakeFiles/Client.dir
+/home/zoubin/tmp/real_video05/build_client/exPackage/CMakeFiles/rebuild_cache.dir
+/home/zoubin/tmp/real_video05/build_client/exPackage/CMakeFiles/edit_cache.dir
+/home/zoubin/tmp/real_video05/build_client/exPackage/CMakeFiles/ExPackage.dir
